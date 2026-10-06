@@ -11,3 +11,7 @@
 * `lab1_coreA_solution.py` — Standalone Python script version of the complete Core A + Extension 1 pipeline.
 * `land-temp-1850-2015.csv` — Core dataset (1992 monthly global land temperature readings, Jan 1850 – Dec 2015, no missing values).
 * `land-temp-1750-2015-with-uncertainty.csv` — Extended dataset for Extension 1 (3192 monthly grid points from Jan 1750 – Dec 2015, including 95% confidence half-width `uncertainty` $\sigma_j$ and 12 missing months in 1750–1752).
+
+## Task distribution
+- **Yulian Melnychuk** - Core A, Extension 1
+- **Artem Serbin** - Core B
